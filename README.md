@@ -12,7 +12,7 @@ View CHANGELOG.md
 # Download
 download to /home/<user>/eggdrop/scripts :
 
-	git clone https://github.com/ZarTek-Creole/mceggdrop.git /home/<user>/eggdrop/scripts
+	git clone github.com/ZarTek-Creole/mceggdrop.git /home/<user>/eggdrop/scripts
 
 # Install
 1) Copy these files to your eggdrop/scripts/ directory.
